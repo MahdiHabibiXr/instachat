@@ -1,2 +1,9 @@
 Flask==3.0.2
 Werkzeug==3.0.1
+__pycache__
+*.pyc
+.env
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
